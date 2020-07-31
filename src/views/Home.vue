@@ -1,5 +1,5 @@
 <template>
-    <div class="home"></div>
+    <div></div>
 </template>
 
 <script>
@@ -7,13 +7,8 @@ export default {
     data() {
         return {};
     },
-    methods: {},
+    methods: {}
 };
 </script>
 
-<style lang="scss" scoped>
-.home {
-    background-color: red;
-    height: 20px;
-}
-</style>
+<style lang="scss" scoped></style>
